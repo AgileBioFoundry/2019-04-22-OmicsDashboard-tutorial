@@ -1,0 +1,7 @@
+
+name: omics-dashboard-tutorial
+dependencies:
+        - python==3.6
+        - ipykernel
+        - pandas
+        - ipywidgets
