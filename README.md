@@ -1,3 +1,21 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .md
+      format_name: markdown
+      format_version: '1.0'
+      jupytext_version: 0.8.6
+  kernelspec:
+    display_name: Python 3
+    language: python
+    name: python3
+---
+
+<h1>Table of Contents<span class="tocSkip"></span></h1>
+<div class="toc"><ul class="toc-item"><li><span><a href="#Omics-Dashboard-tutorial" data-toc-modified-id="Omics-Dashboard-tutorial-1"><span class="toc-item-num">1&nbsp;&nbsp;</span>Omics Dashboard tutorial</a></span><ul class="toc-item"><li><span><a href="#Episodes-(15-minutes-each)" data-toc-modified-id="Episodes-(15-minutes-each)-1.1"><span class="toc-item-num">1.1&nbsp;&nbsp;</span>Episodes (15 minutes each)</a></span></li></ul></li></ul></div>
+
+
 # Omics Dashboard tutorial
 
 
